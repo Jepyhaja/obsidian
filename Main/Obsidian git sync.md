@@ -2,8 +2,6 @@ Käytetyt ohjeet:
 https://www.youtube.com/watch?v=H6ipjzaN2WY
 https://www.xypnox.com/blag/posts/moving-notes-to-github/
 
-hello
-
 ```bash
 #!/bin/bash
 
