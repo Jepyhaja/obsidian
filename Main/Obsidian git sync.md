@@ -1,7 +1,8 @@
 Käytetyt ohjeet:
 https://www.youtube.com/watch?v=H6ipjzaN2WY
 https://www.xypnox.com/blag/posts/moving-notes-to-github/
-tastaan taas
+
+Nyt pitäisi olla task scheduler päällä
 ```bash
 #!/bin/bash
 

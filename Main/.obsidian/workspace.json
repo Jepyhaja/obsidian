@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4794e8dba12a1e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Obsidian git sync.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,6 +41,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "bd62df869f612b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -142,9 +136,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4794e8dba12a1e13",
+  "active": "46627d886b5799d1",
   "lastOpenFiles": [
     "Ajatuksiani/2023-12-09.md",
+    "3kk salihaaste.md",
+    "Kulukartoitus.md",
     "Obsidian git sync.md",
     "Projektit/Loihdin/Loihdin - Sitemap.md",
     "Projektit/Loihdin/Prepare Spells on A Spellbook.md",
@@ -153,10 +149,8 @@
     "Projektit/Forms/-Index Forms.md",
     "-Index Main.md",
     "2 Viikon sykli - Alku.md",
-    "Kulukartoitus.md",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/AreaShapes.md",
     "Ajatuksiani",
-    "3kk salihaaste.md",
     "Untitled.canvas",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/RangeTypes.md",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/SubModifiers.md",
