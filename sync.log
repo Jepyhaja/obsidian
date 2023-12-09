@@ -1,0 +1,7 @@
+[main 58053d2]  M task.bat ?? sync.log
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 sync.log
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:Jepyhaja/obsidian.git
+   fc08fb0..58053d2  main -> main
