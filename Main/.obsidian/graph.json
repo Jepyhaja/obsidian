@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#sitemap",
+      "color": {
+        "a": 1,
+        "rgb": 11805639
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00416666666667,
+  "lineSizeMultiplier": 1.00416666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.657303370786517,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.01826926608416974,
+  "close": true
+}

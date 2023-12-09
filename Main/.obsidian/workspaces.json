@@ -1,0 +1,109 @@
+{
+  "Main": {
+    "main": {
+      "id": "52e6f0be6ea75534",
+      "type": "split",
+      "children": [
+        {
+          "id": "56274f2fe47704e7",
+          "type": "leaf",
+          "state": {
+            "type": "markdown",
+            "state": {
+              "file": "Tietopankki/Lukeminen/Muista mitä luet.md",
+              "mode": "source",
+              "source": false
+            }
+          }
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "17f7b2a5ebc78968",
+      "type": "split",
+      "children": [
+        {
+          "id": "8581a503e8a78817",
+          "type": "tabs",
+          "dimension": 25.52756977535738,
+          "children": [
+            {
+              "id": "79a42c1a524f0115",
+              "type": "leaf",
+              "state": {
+                "type": "graph",
+                "state": {}
+              }
+            }
+          ]
+        },
+        {
+          "id": "eafadd9d9464737a",
+          "type": "tabs",
+          "dimension": 74.47243022464262,
+          "children": [
+            {
+              "id": "6e2307908b69a8c6",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {}
+              }
+            },
+            {
+              "id": "663637f93b2247b7",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "promo",
+                  "matchingCase": false,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 307
+    },
+    "right": {
+      "id": "184079d528cebf00",
+      "type": "split",
+      "children": [
+        {
+          "id": "092f4ab8aa0eb6ea",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4eafcf9c0139d825",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "Tietopankki/Lukeminen/Muista mitä luet.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300,
+      "collapsed": true
+    },
+    "active": "56274f2fe47704e7"
+  }
+}

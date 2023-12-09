@@ -1,0 +1,1 @@
+Revi tag toiminnallisuus omaksi traitiksi [[WithAutocomplete TRAIT]]ista niin tämä on valmis

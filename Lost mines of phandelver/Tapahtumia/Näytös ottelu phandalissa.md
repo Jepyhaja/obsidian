@@ -1,0 +1,1 @@
+Hildar pyytää ryhmää liittymään näytösotteluun, jossa phandalinin nykyiset vartiat ja ryhmä taistelee keskenään kaupinkilaisten iloksi

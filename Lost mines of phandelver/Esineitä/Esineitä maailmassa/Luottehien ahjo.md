@@ -1,0 +1,1 @@
+Vahva taikaa tihkuva hiilipannu, jolla esineiden loihtijat voivat luoda vahvhoja taikaesineitä. [[Mormesk]] oli vahvin esineiden loihtija Phandelverin sopimuksen aikaan. Mormesk [[Orkki hyökkäyksen]] aikaan loihti [[Lightbringer]]iä.

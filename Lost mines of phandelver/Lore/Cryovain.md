@@ -1,0 +1,3 @@
+# Cryovain
+>**Tutkimuksesi Ice Spire Peakin lohikäärmeestä:**
+>Sisar Garaelin kokoelmista ei löydy juurikaan ns. tietokirjallisuutta Ice Spire Peakin Valkoisesta lohikäärmeestä, mutta löydät trubaduurien kirjoittamia värssyjä valkoisesta lohikäärmeestä Cryovainista. Joissa lauletaan sen suojelleen jo 70 vuotta Ice Spiren linnakeeseen keräämäänsä valtavaa saalista. Erään laulun mukaan muuan halfling Rori Whisperfoot olisi nähnyt sen kantavan pesälleen suuria timantteja hiippaillessaan Ice Spire linnakkeella. Phandalinin pormestari Harbinilla laulujen mukaan olisi hallussaan Cryovainin omaisuutta, eikä sen takia uskailtaisi poistua kopperostaan.

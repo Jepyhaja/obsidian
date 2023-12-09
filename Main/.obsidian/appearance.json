@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "translucency": false,
+  "accentColor": "#b733d1",
+  "monospaceFontFamily": "Roboto Mono for Powerline",
+  "interfaceFontFamily": "",
+  "nativeMenus": false
+}

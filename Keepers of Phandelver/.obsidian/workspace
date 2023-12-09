@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "36c55dd9e03e6cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e4891e603f996b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessiot/1_sessio - Trouble In Triboar Trail.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dae0bab689adcd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb950946e0b0c4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed609dfc1263cde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0785158f96c61ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a19b4f9795827da",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c14c5b88750f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44b896fa61434d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessiot/1_sessio - Trouble In Triboar Trail.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e4891e603f996b5",
+  "lastOpenFiles": [
+    "Moon-Touched.md",
+    "Sessiot/1_sessio - Trouble In Triboar Trail.md",
+    "Sessiot/0_hookit.md",
+    "PCS/Untitled.md",
+    "PCS/Dain Rockseeker/Backstory Questions.md",
+    "PCS/So-Kehar/Backstory Questions.md",
+    "PCS/Theren Liadon/Backstory Questions.md",
+    "Sessiot/0_sessio - notes.md",
+    "Presessio/Sääntöjä ja huomioita.md",
+    "Presessio/Homebrew.md"
+  ]
+}

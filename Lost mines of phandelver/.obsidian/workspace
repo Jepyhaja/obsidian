@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "0dabf09970245bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7eaecc8b20fcb8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Act 1/Sessio 9 - Takaisin Phandaliin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59b0a64ccabddd8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "19d94cab7946a3d8",
+        "type": "tabs",
+        "dimension": 22.304283604135893,
+        "children": [
+          {
+            "id": "6c6498671e019d64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "11b1fd4e9bd1aaf0",
+        "type": "tabs",
+        "dimension": 77.69571639586411,
+        "children": [
+          {
+            "id": "0d17e168d83bdeed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a74d57780e43b9d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394
+  },
+  "right": {
+    "id": "8d690338fc41b5d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "59376f062a7bece0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838d6d369cb351b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Act 1/Sessio 9 - Takaisin Phandaliin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e7eaecc8b20fcb8",
+  "lastOpenFiles": [
+    "Act 1/Sessio 10 - Wave Echon Luola.md",
+    "Act 1/Sessio 9 - Takaisin Phandaliin.md",
+    "Act 1/Sessio X -  Cragmaw linnake.md",
+    "Act 1/Sessio 6 - Thundertree.md",
+    "Act 1/Sessio 5 - Shit got real.md",
+    "Act 1/Sessio 4 - Banshee.md",
+    "Act 1/Sessio 3 - Tresendar manor.md",
+    "Act 1/Sessio 2 - Phandalin.md",
+    "Act 1/Sessio 0.md",
+    "Act 1/Sessio 12 - Wave Echo Cave pt.3.md"
+  ]
+}

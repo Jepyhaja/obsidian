@@ -1,0 +1,6 @@
+- Matkaavan karavani joukkion vanhin [[Marcus]], jonka seurue aiemmin pelasti Triboar Traililla lähestyy seuruetta kartta kädessään.
+- Löysimme aiemmilta retkiltämme tälläisen kartan, joka osoittaa jonkilaisen rakkennelman Kryptgardenin metsässä vuoren kupeessa. Huomasin että teillä ei näytä nyt olevan kovin kiire, joten haluaisitteko ostaa itsellenne hieman tekemistä?
+	- Tämän kartan perusteella kyseessä voisi olla jokin salainen temppeli tai kirkko, ehkä kirjasto tai jonkilainen tutkimuskeskus. Kartasta on hankala saada selvää, se on pahasti kulunut.
+- Menisimme itse mutta muu seurue ei tahdo kulkea Kryptgardenin läpi. He ovat hieman heikkohipiäsiä.
+	- Huhujen mukaan ihmisiä katoilee metsään ja ne jotka ovat onnekkaita ja ovat selvinneet metsästä kertovat kuinka öisin metsä raikuu avunhuudoista.
+	- Joidenkin mukaan alueella elää noitia, jotka kaappaavat läpikulkijoita ja tekevät näillä ties mitä.

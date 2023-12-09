@@ -1,0 +1,1 @@
+Function that does not require Instance of a class eg. `$model = new Model; $model->getColumns()` and can istead be used by direct call `Model::getColumns()`

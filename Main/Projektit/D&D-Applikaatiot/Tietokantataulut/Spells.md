@@ -1,0 +1,34 @@
+## Liitokset:
+- [x] [[AttackTypes]]
+- [x] [[Schools]]
+- [x] [[SaveTypes]]
+- [x] [[PlayerClasses]] Many-to-Many
+- [x] [[PlayerSubClasses]] Many-to-Many
+- [x] [[DamageTypes]]
+- [x] [[CastTimes]]
+- [x] [[AreaShapes]]
+- [x] [[Durations]] Many
+- [x] [[DurationTypes]]
+- [x] [[RangeTypes]]
+- [x] [[ScalingTypes]]
+- [ ] [[Effects]] 
+- [ ] [[Scalings]]
+
+## Tiedot
+- [x] name
+- [ ] description
+- [ ] level
+- [ ] ritual
+- [ ] casting_time
+- [ ] reaction_description
+- [ ] distance
+- [ ] size
+- [ ] druation_value
+- [ ] components
+- [ ] materials
+- [ ] has_scaling
+- [ ] is_part_of_attack
+- [ ] on_miss
+- [ ] save_success
+- [ ] save_fail
+- [ ] effects

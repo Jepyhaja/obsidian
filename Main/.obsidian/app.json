@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "foldHeading": false,
+  "attachmentFolderPath": "Liitteet",
+  "fileSortOrder": "byModifiedTime",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "tabSize": 2,
+  "trashOption": "local"
+}

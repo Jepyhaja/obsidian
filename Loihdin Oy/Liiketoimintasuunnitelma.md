@@ -1,0 +1,4 @@
+# Liikeidea
+	Loihdin Oy liikeidean kulmakivenä on kehittää verkossa käytettäviä työkaluja, joilla roolipelaajat voivat luoda omaa sisältöä kotipeleihin. Kyseisen kaltaisia palveluita on olemassa, mutta niiden käytettävyys on parhaimmillaan keskinkertainen. Loihdin Oy:n ensimmäisen tuotteen ideana on antaa käyttäjille alusta, jonka käyttäminen on ilmaista, mutta jossa on mahdollista ostaa erilaisia pohjia oman sisällön tuotantoon.
+	Loihdin Oy:n asiakkaat ovat ns. kynä ja paperi pelien pelaajia ja roolipelaajia, erityisesti D&D ja Pathfinder pelien pelaajat. Markkinat ovat alusta alkaen globaalit, sillä Suomessa kyseisiä harrastajia on melko vähän.
+	Loihdin Oy:n tuottama tuote on helppokäyttöinen alusta, jossa voidaan hallita omaa sisältöä hyvin joustavasti. Nykyisellään oman sisällön tuottaminen kotipeleihin on hajanaisten työkalujen takana.

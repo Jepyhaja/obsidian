@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "36c55dd9e03e6cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b4f7e858c65f361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0791f57ace4ddc6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dae0bab689adcd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb950946e0b0c4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed609dfc1263cde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0785158f96c61ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce5eb202ba5070aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "0a19b4f9795827da",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c14c5b88750f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44b896fa61434d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b0791f57ace4ddc6",
+  "lastOpenFiles": [
+    "Esineitä/Template.md",
+    "Tavoitelista.md",
+    "Untitled.canvas",
+    "Sessiot/02_sessio Oghman alttari part 1.md",
+    "Esineitä/Potion of Speed.md",
+    "Esineitä/Cape of The Mountebank.md",
+    "Inferno Falchion.md",
+    "Becoming a Great GM.md",
+    "Esineitä/The Codex of Eldritch Evolutions.md",
+    "Sessiot/0X_sessio - Trouble In Triboar Trail.md",
+    "Sessiot/01_sessio - Basiliskin metsästäjät.md",
+    "Sessiot/0X_sessio Kartta.md"
+  ]
+}

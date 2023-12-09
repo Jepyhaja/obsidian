@@ -1,0 +1,1 @@
+[THE SYNTAXICON](https://www.markdownguide.org/basic-syntax/)
