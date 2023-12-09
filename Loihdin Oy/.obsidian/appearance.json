@@ -1,5 +1,6 @@
 {
   "translucency": false,
   "cssTheme": "Minimal",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "accentColor": ""
 }
