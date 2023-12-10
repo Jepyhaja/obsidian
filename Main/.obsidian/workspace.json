@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-09.md",
+                "file": "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 244.5
   },
   "right": {
     "id": "184079d528cebf00",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-09.md",
+                "file": "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-09.md",
+                "file": "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,23 @@
   },
   "active": "46627d886b5799d1",
   "lastOpenFiles": [
-    "Obsidian git sync.md",
-    "Ajatuksiani/2023-12-09.md",
+    "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
+    "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
+    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+    "Tietopankki/Lukeminen/Muista mitä luet.md",
+    "2 Viikon sykli - Alku.md",
     "3kk salihaaste.md",
     "Kulukartoitus.md",
+    "Markdown syntax guide.md",
+    "Obsidian git sync.md",
+    "Ajatuksiani/2023-12-10.md",
+    "Ajatuksiani/2023-12-09.md",
     "Projektit/Loihdin/Loihdin - Sitemap.md",
     "Projektit/Loihdin/Prepare Spells on A Spellbook.md",
     "Projektit/Loihdin/Login.md",
     "Projektit/Loihdin/Passwordrecovery.md",
     "Projektit/Forms/-Index Forms.md",
     "-Index Main.md",
-    "2 Viikon sykli - Alku.md",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/AreaShapes.md",
     "Ajatuksiani",
     "Untitled.canvas",
@@ -161,12 +167,6 @@
     "Projektit/Loihdin/Create a Spell.md",
     "Projektit/Loihdin/My Spells.md",
     "Projektit/Loihdin/Loihdin - notes.md",
-    "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
-    "Tietopankki/Muutoksen luominen/Aloittaminen.md",
-    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
-    "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
-    "-Index Components.md",
-    "Projektit/D&D-Applikaatiot/Build A Trait.md",
     "Tietopankki/Ravitsemus"
   ]
 }

@@ -27,6 +27,6 @@ Ei mikään optimaalinen varmasti mutta testataan miltä tollanen tuntuu.
 0.9.12.23
 
 ---
-
+#challenge #haaste #sali
 
 

@@ -20,4 +20,6 @@ then
 
 fi
 ```
-yoooo
+
+---
+#obsidian #filesync #code
