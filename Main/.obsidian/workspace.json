@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Ajatuksiani/2023-12-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Ajatuksiani/2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Ajatuksiani/2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,9 @@
   },
   "active": "0b99f2390640c11e",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-10.md",
     "FileCloud.md",
+    "Ajatuksiani/2023-12-11.md",
+    "Ajatuksiani/2023-12-10.md",
     "Jalkapäivä 2023-12-10.md",
     "Ajatuksiani/2023-12-09.md",
     "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
@@ -206,7 +207,6 @@
     "Projektit/D&D-Applikaatiot/Tietokantataulut/Tags.md",
     "Projektit/D&D-Applikaatiot/-Index D&D-applikaatiot.md",
     "Projektit/Loihdin/Change password.md",
-    "Projektit/Loihdin/Create a Spell.md",
     "Tietopankki/Ravitsemus"
   ]
 }
