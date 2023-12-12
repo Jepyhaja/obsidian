@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46627d886b5799d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajatuksiani/2023-12-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9321f4d0642288bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajatuksiani/2023-12-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b4ab3bb67ec5b973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-10.md",
+                "file": "3kk salihaaste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 232.5
   },
   "right": {
     "id": "184079d528cebf00",
@@ -137,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
+                "file": "3kk salihaaste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
+                "file": "3kk salihaaste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,20 +150,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0b99f2390640c11e",
+  "active": "b4ab3bb67ec5b973",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-11.md",
-    "Ajatuksiani/2023-12-12.md",
-    "FileCloud.md",
     "Ajatuksiani/2023-12-10.md",
-    "Jalkapäivä 2023-12-10.md",
+    "Ajatuksiani/2023-12-12.md",
+    "3kk salihaaste.md",
     "Ajatuksiani/2023-12-09.md",
+    "Ajatuksiani/2023-12-11.md",
+    "FileCloud.md",
+    "Jalkapäivä 2023-12-10.md",
     "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
     "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
     "Tietopankki/Lukeminen/Muista mitä luet.md",
     "2 Viikon sykli - Alku.md",
-    "3kk salihaaste.md",
     "Kulukartoitus.md",
     "Markdown syntax guide.md",
     "Obsidian git sync.md",

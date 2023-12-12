@@ -19,8 +19,8 @@ Ote discordista Joulukuun 6
 >Nonni 3kk - 3krt/vko sali challenge päivitystä. Kuukausi #1. Salikertoja: 13 Missattu: 2 Fiilis: 5/5 Tuntuu että on joku ihme kasvupyrähdys menossa. Tulevan kuun aikana lisää fokusta olkapäihin.
 
 Loppuajan tavoitteena olisi keskittyä hieman enemmän olkapäihin, myös maastaveto polttelee joka kerta eli sitäkin pitää selkeästi päästä tekemään lisää. Jonkinlaisena ideana oli alkaa tekemään olkapää ja maastavetotreeni yhtenä päivänä. Tuota pyöritellessä päädyin kuitenkin tälläiseen ohjelmaan: 
-Ojentajat/Hauikset/Olkapäät, 
-Jalkapäivä, 
+Ojentajat/Hauikset/Olkapäät,
+Jalkapäivä,
 Rinta/Selkä/Maastaveto
 Ei mikään optimaalinen varmasti mutta testataan miltä tollanen tuntuu.
 
