@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
+                "file": "Ajatuksiani/2023-12-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
+                "file": "Ajatuksiani/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
+                "file": "Ajatuksiani/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,9 +152,10 @@
   },
   "active": "b4ab3bb67ec5b973",
   "lastOpenFiles": [
+    "Ajatuksiani/2023-12-12.md",
+    "Ajatuksiani/2023-12-13.md",
     "Ajatuksiani/2023-12-11.md",
     "Ajatuksiani/2023-12-10.md",
-    "Ajatuksiani/2023-12-12.md",
     "2023-12-10 - Salipäivä.md",
     "2023-12-12 - Salipäivä.md",
     "Ajatuksiani/2023-12-09.md",
@@ -179,7 +180,6 @@
     "Untitled.canvas",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/RangeTypes.md",
     "Projektit/D&D-Applikaatiot/Tietokantataulut/SubModifiers.md",
-    "Projektit/D&D-Applikaatiot/Tietokantataulut/Tags.md",
     "Tietopankki/Ravitsemus"
   ]
 }
