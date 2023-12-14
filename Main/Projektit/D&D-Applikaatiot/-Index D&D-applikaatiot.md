@@ -1,4 +1,4 @@
-[[Loihdin - notes]]
+[[Loihdin]]
 [[Build An Item]]
 [[Build A Race]]
 [[Build A Feat]]

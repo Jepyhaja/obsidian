@@ -12,7 +12,7 @@
 - Ennakoiva syöte
 
 ##### Käyttökohteet:
-[[Loihdin - notes]],
+[[Loihdin]],
 
 
 

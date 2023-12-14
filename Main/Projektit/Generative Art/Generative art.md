@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=MJ8r4SSKeQc
 
 GD_Lib???
 
-Voisko käyttää [[Loihdin - notes]] kanssa, eri taustoja ja eri "splash"-ikoneja, joista yhdistellään [[Spells]] ikoni.
+Voisko käyttää [[Loihdin]] kanssa, eri taustoja ja eri "splash"-ikoneja, joista yhdistellään [[Spells]] ikoni.
 
 # ESIM:
 [[DamageTypes]] määrää värit

@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "7f956d759e7339ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7970db64bac6bb9",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-13.md",
+                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-13.md",
+                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,36 +164,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4ab3bb67ec5b973",
+  "active": "7f956d759e7339ee",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-12.md",
-    "Ajatuksiani/2023-12-13.md",
-    "Ajatuksiani/2023-12-11.md",
-    "Ajatuksiani/2023-12-10.md",
+    "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
+    "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
+    "Tietopankki/Muutoksen luominen/Aloittaminen.md",
+    "Tietopankki/Lukeminen/Muista mitä luet.md",
+    "Tietopankki/Lukeminen/History of Western Philosophy.md",
+    "Tietopankki/Muistiinpanot/Järjestelmällisyys.md",
+    "3kk salihaaste.md",
+    "Projektit/D&D-Applikaatiot/-Index D&D-applikaatiot.md",
+    "Projektit/D&D-Applikaatiot/Build A Feature.md",
+    "Projektit/D&D-Applikaatiot/Build A Trait.md",
+    "Projektit/D&D-Applikaatiot/Build A Feat.md",
+    "Projektit/D&D-Applikaatiot/Build A Race.md",
+    "Projektit/D&D-Applikaatiot/Build An Item.md",
+    "-Index Main.md",
+    "Projektit/Forms/-Index Forms.md",
+    "-Index Components.md",
+    "2 Viikon sykli - Alku.md",
     "2023-12-10 - Salipäivä.md",
     "2023-12-12 - Salipäivä.md",
-    "Ajatuksiani/2023-12-09.md",
-    "3kk salihaaste.md",
     "FileCloud.md",
-    "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
-    "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
-    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
-    "Tietopankki/Lukeminen/Muista mitä luet.md",
-    "2 Viikon sykli - Alku.md",
     "Kulukartoitus.md",
     "Markdown syntax guide.md",
     "Obsidian git sync.md",
-    "Projektit/Loihdin/Loihdin - Sitemap.md",
-    "Projektit/Loihdin/Prepare Spells on A Spellbook.md",
-    "Projektit/Loihdin/Login.md",
-    "Projektit/Loihdin/Passwordrecovery.md",
-    "Projektit/Forms/-Index Forms.md",
-    "-Index Main.md",
-    "Projektit/D&D-Applikaatiot/Tietokantataulut/AreaShapes.md",
+    "Projektit/Loihdin/Loihdin.md",
+    "Ajatuksiani/2023-12-13.md",
+    "Projektit/Server setup/Puppeteer setup.md",
     "Ajatuksiani",
     "Untitled.canvas",
-    "Projektit/D&D-Applikaatiot/Tietokantataulut/RangeTypes.md",
-    "Projektit/D&D-Applikaatiot/Tietokantataulut/SubModifiers.md",
     "Tietopankki/Ravitsemus"
   ]
 }
