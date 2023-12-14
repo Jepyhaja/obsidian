@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+                "file": "Ajatuksiani/2023-12-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+                "file": "Ajatuksiani/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+                "file": "Ajatuksiani/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,8 @@
   },
   "active": "7f956d759e7339ee",
   "lastOpenFiles": [
+    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+    "Ajatuksiani/2023-12-14.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
     "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
     "Tietopankki/Muutoksen luominen/Aloittaminen.md",
@@ -190,8 +192,6 @@
     "Markdown syntax guide.md",
     "Obsidian git sync.md",
     "Projektit/Loihdin/Loihdin.md",
-    "Ajatuksiani/2023-12-13.md",
-    "Projektit/Server setup/Puppeteer setup.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
