@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4ab3bb67ec5b973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajatuksiani/2023-12-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f956d759e7339ee",
+            "id": "e7970db64bac6bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7970db64bac6bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajatuksiani/2023-12-12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,10 +137,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f956d759e7339ee",
+  "active": "e7970db64bac6bb9",
   "lastOpenFiles": [
-    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
+    "Ajatuksiani/2023-12-12.md",
+    "Ajatuksiani/2023-12-13.md",
+    "Vue.md",
     "Ajatuksiani/2023-12-14.md",
+    "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
     "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
     "Tietopankki/Muutoksen luominen/Aloittaminen.md",
@@ -189,9 +165,6 @@
     "2023-12-12 - Salipäivä.md",
     "FileCloud.md",
     "Kulukartoitus.md",
-    "Markdown syntax guide.md",
-    "Obsidian git sync.md",
-    "Projektit/Loihdin/Loihdin.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
