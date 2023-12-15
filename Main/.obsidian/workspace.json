@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-14.md",
+                "file": "Ajatuksiani/2023-12-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-14.md",
+                "file": "Ajatuksiani/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-14.md",
+                "file": "Ajatuksiani/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +139,11 @@
   },
   "active": "e7970db64bac6bb9",
   "lastOpenFiles": [
+    "Ajatuksiani/2023-12-14.md",
+    "Ajatuksiani/2023-12-15.md",
     "Ajatuksiani/2023-12-12.md",
     "Ajatuksiani/2023-12-13.md",
     "Vue.md",
-    "Ajatuksiani/2023-12-14.md",
     "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
     "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
@@ -164,7 +165,6 @@
     "2023-12-10 - Salipäivä.md",
     "2023-12-12 - Salipäivä.md",
     "FileCloud.md",
-    "Kulukartoitus.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
