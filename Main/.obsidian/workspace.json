@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-18.md",
+                "file": "Ajatuksiani/2023-12-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-18.md",
+                "file": "Ajatuksiani/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-18.md",
+                "file": "Ajatuksiani/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +139,10 @@
   },
   "active": "e7970db64bac6bb9",
   "lastOpenFiles": [
+    "Ajatuksiani/2023-12-18.md",
+    "Ajatuksiani/2023-12-19.md",
     "Ajatuksiani/2023-12-16.md",
     "Ajatuksiani/2023-12-17.md",
-    "Ajatuksiani/2023-12-18.md",
     "Ajatuksiani/2023-12-15.md",
     "Ajatuksiani/2023-12-14.md",
     "Ajatuksiani/2023-12-12.md",
@@ -164,7 +165,6 @@
     "-Index Main.md",
     "Projektit/Forms/-Index Forms.md",
     "-Index Components.md",
-    "2 Viikon sykli - Alku.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
