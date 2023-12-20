@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b61e958689962468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3kk salihaaste.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-19.md",
+                "file": "3kk salihaaste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-19.md",
+                "file": "3kk salihaaste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,16 +151,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7970db64bac6bb9",
+  "active": "b61e958689962468",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-18.md",
+    "Ajatuksiani/2023-12-09.md",
+    "3kk salihaaste.md",
     "Ajatuksiani/2023-12-19.md",
-    "Ajatuksiani/2023-12-16.md",
-    "Ajatuksiani/2023-12-17.md",
-    "Ajatuksiani/2023-12-15.md",
-    "Ajatuksiani/2023-12-14.md",
+    "Ajatuksiani/2023-12-11.md",
+    "Ajatuksiani/2023-12-10.md",
     "Ajatuksiani/2023-12-12.md",
     "Ajatuksiani/2023-12-13.md",
+    "Ajatuksiani/2023-12-14.md",
+    "Ajatuksiani/2023-12-15.md",
+    "Ajatuksiani/2023-12-16.md",
+    "Ajatuksiani/2023-12-17.md",
+    "Ajatuksiani/2023-12-18.md",
+    "2023-12-15 - Salipäivä.md",
+    "2023-12-19 - Salipäivä.md",
+    "2023-12-12 - Salipäivä.md",
     "Vue.md",
     "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
@@ -155,16 +176,9 @@
     "Tietopankki/Lukeminen/Muista mitä luet.md",
     "Tietopankki/Lukeminen/History of Western Philosophy.md",
     "Tietopankki/Muistiinpanot/Järjestelmällisyys.md",
-    "3kk salihaaste.md",
     "Projektit/D&D-Applikaatiot/-Index D&D-applikaatiot.md",
     "Projektit/D&D-Applikaatiot/Build A Feature.md",
     "Projektit/D&D-Applikaatiot/Build A Trait.md",
-    "Projektit/D&D-Applikaatiot/Build A Feat.md",
-    "Projektit/D&D-Applikaatiot/Build A Race.md",
-    "Projektit/D&D-Applikaatiot/Build An Item.md",
-    "-Index Main.md",
-    "Projektit/Forms/-Index Forms.md",
-    "-Index Components.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"

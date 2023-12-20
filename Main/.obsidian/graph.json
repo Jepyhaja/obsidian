@@ -2,43 +2,21 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#sitemap",
-      "color": {
-        "a": 1,
-        "rgb": 11805639
-      }
-    },
-    {
-      "query": "tag:daily",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#sali  ",
-      "color": {
-        "a": 1,
-        "rgb": 5402336
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.00416666666667,
-  "lineSizeMultiplier": 0.419010416666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.684895833333333,
-  "repelStrength": 15.46875,
-  "linkStrength": 0.653645833333333,
-  "linkDistance": 30,
-  "scale": 0.13873223932666506,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1387322393266656,
   "close": false
 }

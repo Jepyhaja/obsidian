@@ -1,8 +1,8 @@
 Aloitus päivä: 31.10.23
 Lopetuspäivä 31.1.24
 
-Salikertoja: 14
-Missattu: 2
+Salikertoja: 17
+Missattu: 3
 
 Ensimmäiset 2 viikkoa tehty lähinnä mitä lystää, tavoitteena ollut enemmän se että menee sinne salille asti että pääsee sellaiseen treenin makuun. Ja muutenkin homman on tarkoitus olla enemmän iisiä kivaa kuin veren maku suuss pusertamista. Kovaa saa tehdä kunhan on myös kivaa.
 
@@ -25,6 +25,11 @@ Rinta/Selkä/Maastaveto
 Ei mikään optimaalinen varmasti mutta testataan miltä tollanen tuntuu.
 
 0.9.12.23
+
+Tähän mennessä yksi sali päivä jäänyt välistä huonon voinnin takia kun vatsa veti kuralle muuten homma etenee oikein hyvin.
+
+19.12.23
+
 
 ---
 #challenge #haaste #sali
