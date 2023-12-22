@@ -1,4 +1,5 @@
 {
   "folder": "Ajatuksiani",
-  "autorun": true
+  "autorun": true,
+  "template": "Templates/Daily"
 }
