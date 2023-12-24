@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-23.md",
+                "file": "Ajatuksiani/2023-12-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8143f00cb0dd6310",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222124921.jpg"
               }
             }
           }
@@ -55,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 583.5
   },
   "right": {
     "id": "184079d528cebf00",
@@ -97,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-23.md",
+                "file": "Ajatuksiani/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-23.md",
+                "file": "Ajatuksiani/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,8 +149,27 @@
   },
   "active": "e7970db64bac6bb9",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-22.md",
     "Ajatuksiani/2023-12-23.md",
+    "Ajatuksiani/2023-12-22.md",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222141453.mp4",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222102201.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222102223.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222124921.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222130706.jpg",
+    "Ajatuksiani/2023-12-24.md",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222104841.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222104852.mp4",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222102530.mp4",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222101012.mp4",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222092814.mp4",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/Screenshot_2023-12-22-15-35-54-96_c5c5df356b7e0d4d607d27de3cbd3f3c.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222122004.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222114515.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222114508.jpg",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus/IMG20231222104842.jpg",
+    "Markdown syntax guide.md",
+    "Ajatuksiani/2023-12-22-Valoisan-vaellus",
+    "Ajatuksiani/VID20231222141453.mp4",
     "Ajatuksiani/2023-12-19.md",
     "Templates/Daily.md",
     "Ajatuksiani/2023-12-21.md",
@@ -162,9 +191,6 @@
     "Vue.md",
     "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
     "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
-    "Tietopankki/Muutoksen luominen/Tavoitteiden seuraaminen.md",
-    "Tietopankki/Muutoksen luominen/Aloittaminen.md",
-    "Tietopankki/Lukeminen/Muista mitä luet.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
