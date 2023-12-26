@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajatuksiani/2023-12-25.md",
+                "file": "Ajatuksiani/2023-12-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajatuksiani/2023-12-25.md",
+                "file": "Ajatuksiani/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajatuksiani/2023-12-25.md",
+                "file": "Ajatuksiani/2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,9 @@
   },
   "active": "e7970db64bac6bb9",
   "lastOpenFiles": [
-    "Ajatuksiani/2023-12-24.md",
     "Ajatuksiani/2023-12-25.md",
+    "Ajatuksiani/2023-12-26.md",
+    "Ajatuksiani/2023-12-24.md",
     "Ajatuksiani/2023-12-23.md",
     "Ajatuksiani/2023-12-22.md",
     "Ajatuksiani/2023-12-22-Valoisan-vaellus/VID20231222141453.mp4",
@@ -191,7 +192,6 @@
     "2023-12-12 - Salipäivä.md",
     "Vue.md",
     "Tietopankki/Muutoksen luominen/Uuden alun efekti.md",
-    "Tietopankki/Muutoksen luominen/Tieto ei ole ongelma.md",
     "Ajatuksiani",
     "Untitled.canvas",
     "Tietopankki/Ravitsemus"
